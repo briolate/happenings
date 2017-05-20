@@ -1,0 +1,48 @@
+
+*Elevator Pitch*
+- HYPEnings is the place for events in the motor city! User driven content and content brought in from eventbrite bring events into this minimilist web app. 
+We wanted to create this app to make it easier to get out and find things going on around us. Users are able to discover and find new events and happenings in their own community. 
+Our target users are people who want to find and be found. Users are able to not only find events but post them too.
+>Stretch Goals
+Our stretch goals are... 
+-too make this app scalable by adding other cities
+-having paid users and sponsers be able to place events
+-gamify the app by adding point systems.
+-Having a little avater thing to move through the city  
+
+///////////////////////////////////
+
+*Core Features*
+- One view for main page that has search bar
+- Seperate view that has clickable nieghborhood map
+- Seperate view that has list of events in events  
+- Search by cross streets
+- User can add event
+- Events are also populated by eventbrite
+
+//////////////////////////////////
+
+*Javascript/HTML5/CSS3*
+- Clickable Detroit map
+- Bootstrap UI layout
+
+///////////////////////////////////
+
+*Angular*
+- Searching by zip code and event name / descrpiton
+- Routing with different views
+- Angular service retrieves data from API
+- Angular service retrieves data from database
+
+///////////////////////////////////
+
+*APIs Used*
+- Google Maps
+- Eventbrite
+
+//////////////////////////////////
+
+*User Stories*
+- User should be able to enter their zip and be able to view the nearest event to them
+- User should be able to 
+
