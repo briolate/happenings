@@ -1,6 +1,6 @@
 angular.module('ourApp', ['ngRoute'], ['ui.bootstrap'])
   .config(function($routeProvider) {
-    $routeProvider.when('/view1', {
+    $routeProvider.when('/home', {
       templateUrl: 'views/view1.html',
       controller: 'view1controller'
     })
@@ -8,5 +8,5 @@ angular.module('ourApp', ['ngRoute'], ['ui.bootstrap'])
       templateUrl: 'views/view2.html',
       controller: 'view2controller'
     })
-    .otherwise('/view1');
+    .otherwise('/home');
   });
